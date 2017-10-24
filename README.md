@@ -42,7 +42,7 @@ For example:
 python experiments/iccv/learn-texture.py diamond.png
 `
 
-will start training against the pebbles the diamond texture.
+will start training the diamond texture.
 
 For the given script, it's best to run these from the root of the repositories or
 otherwise modify the experiment paths inside to better suit your environment.
