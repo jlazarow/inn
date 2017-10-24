@@ -57,3 +57,7 @@ for more insight onto the generation process. Additionally, syntheses will be pl
 The code is written to be extremely flexible. Not only can arbitrary
 discriminator models i.e. other CNN architectures be added (see network.py), but the
 processes themselves can be extended quite easily.
+
+# Other issues
+
+Feel free to email me at mygithubusername@ucsd.edu for specific details or questions.
